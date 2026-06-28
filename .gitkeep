@@ -1,0 +1,10 @@
+backend/.gitkeep
+frontend/.gitkeep
+ai-engine/.gitkeep
+docs/.gitkeep
+docker/.gitkeep
+scripts/.gitkeep
+output/.gitkeep
+prompts/.gitkeep
+templates/.gitkeep
+.github/.gitkeep
